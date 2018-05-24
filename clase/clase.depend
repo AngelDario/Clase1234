@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1527005874 source:c:\users\alumno-g\desktop\clase\main.cpp
+	<iostream>
+	"clases.h"
+
+1527004944 c:\users\alumno-g\desktop\clase\include\clases.h
+	<iostream>
+
+1527005853 source:c:\users\alumno-g\desktop\clase\src\clases.cpp
+	"clases.h"
+
+1527170549 source:c:\users\alumno-a\desktop\clase\main.cpp
+	<iostream>
+	"clases.h"
+
+1527171069 c:\users\alumno-a\desktop\clase\include\clases.h
+	<iostream>
+
